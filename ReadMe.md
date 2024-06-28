@@ -8,6 +8,10 @@
 
 ## Overview
 This is the current progress on the latest version of a data carrier board for the evolutionary hardware project.
+Here is the link to the old version of the design for an Ardunio Nano. 
+
+[Link to Previous Project](https://github.com/manthelt/BitstreamEvolutionHardware)
+
 
 ## Features
 Support for raspberry pi as the main computer, support for up to 4 FPGAs on board, 5 M samples per second per channel on the ADC, analog multiplexing is used to connect each one of the connections on the FPGA to the ADC. 
