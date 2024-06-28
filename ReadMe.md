@@ -47,7 +47,7 @@ As mentioned inside of the project Ice Storm while uploading a program to an FPG
 2. **Removing the 0 Ohm Resistor** 
    Once the SRAM module is removed we can remove the 0 Ohm resistor labeled as R2 which connects between the SRAM module and the programer chip
 
-| ![PCBRende:r](Images/CarrierBoard/V1.png) | 
+| ![PCBRende:r](Images/0OhmResistor.png) | 
 |:--:| 
 | *Removed 0 Ohm Resistor* |
 
