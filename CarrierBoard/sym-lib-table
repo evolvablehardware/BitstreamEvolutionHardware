@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CarrierBoardLib")(type "KiCad")(uri "${KIPRJMOD}/CarrierBoardLib.kicad_sym")(options "")(descr ""))
+  (lib (name "2024-06-25_23-07-34")(type "KiCad")(uri "/home/logan/Downloads/ADS7950QDBTRQ1/KiCADv6/2024-06-25_23-07-34.kicad_sym")(options "")(descr ""))
+  (lib (name "CD74HC4067M96")(type "KiCad")(uri "/home/logan/Downloads/CD74HC4067M96/CD74HC4067M96.kicad_sym")(options "")(descr ""))
+)
